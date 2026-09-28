@@ -3,9 +3,9 @@
 Proyecto web simple desarrollado con **HTML y CSS** para practicar el trabajo colaborativo con **Git y GitHub**.
 
 ## Integrantes
-- Integrante 1: Apellido Nombre
-- Integrante 2: Apellido Nombre
-- Integrante 3: Apellido Nombre
+- Integrante 1: Guada Cantela
+- Integrante 2: Guada Cantela
+- Integrante 3: Guada Cantela
 
 ## Estructura
 - `index.html`: página principal
