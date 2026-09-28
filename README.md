@@ -17,4 +17,5 @@ Proyecto web simple desarrollado con **HTML y CSS** para practicar el trabajo co
 2. Abrir `index.html` en el navegador.
 
 ## Flujo de trabajo
-Trabaje individualmente pero simulando 3 integrantes
+Cree 3 ramas simulando que eramos 3 integrantes, hice commits propios
+en cada una y despues se unieron los cambios a `main` con merge.
